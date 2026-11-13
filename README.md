@@ -13,7 +13,7 @@ Welcome to the community study guide for the **Claude Certified Architect Founda
 *(Upload a clean diagram image showing a standard Claude RAG or Agentic workflow here)*
 
 ## 📝 Sample Practice Question
-See attached PDF
+See attached PDF: CCAR-F-Sample-Questions Domain1.pdf
 
 ---
 
