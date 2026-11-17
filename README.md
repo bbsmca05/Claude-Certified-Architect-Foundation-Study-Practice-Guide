@@ -1,4 +1,5 @@
 # Claude-Certified-Architect-Foundation-Study-Practice-Guide 🧠
+Udemy Course: https://www.udemy.com/course/claude-certified-architect-foundations-exam-practice-test
 
 Welcome to the community study guide for the **Claude Certified Architect Foundation** certification! This repository organizes the core concepts, official documentation, and architectural patterns you need to pass the exam.
 
@@ -18,6 +19,6 @@ See attached PDF: CCAR-F-Sample-Questions Domain1.pdf
 ---
 
 ## 🚀 Ready to Test Your Knowledge?
-Want full-length timed mock exams with detailed explanations for every answer? 
+Want full-length timed mock exams with detailed explanations for every answer? Access this course and practice
 
-👉 **Coming Soon**
+https://www.udemy.com/course/claude-certified-architect-foundations-exam-practice-test
